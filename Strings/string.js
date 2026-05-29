@@ -1,0 +1,10 @@
+console.log("Hello World!!!");
+console.log('Hi World!!!');
+let singleQuoteStringDeclaration = 'Hello World!!!';
+console.log(singleQuoteStringDeclaration);
+let doubleQuoteStringDeclaration = "Hello World!!!";
+console.log(doubleQuoteStringDeclaration);
+let immutableStringDeclaration = "hello Fucking World!!!";
+console.log(immutableStringDeclaration);
+immutableStringDeclaration = "Hello Sucking World!!!";
+console.log(immutableStringDeclaration);

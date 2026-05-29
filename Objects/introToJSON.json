@@ -1,0 +1,16 @@
+{
+    "name": "Intro to JSON",
+    "description": "JSON stands for JavaScript Object Notation. It is a lightweight data-interchange format that is easy for humans to read and write, and easy for machines to parse and generate. JSON is often used to transmit data between a server and a web application as an alternative to XML.",
+    "example": {
+        "name": "John Doe",
+        "age": 30,
+        "isStudent": false,
+        "hobbies": ["reading", "traveling", "coding"],
+        "address": {
+            "street": "123 Main St",
+            "city": "Anytown",
+            "country": "USA"
+
+        }
+    }
+}
